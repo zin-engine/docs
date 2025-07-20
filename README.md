@@ -16,7 +16,7 @@ If you're looking for a simpler alternative to React, PHP, or server-heavy stack
 
 ## 📦 Binary Downloads
 
-Download the latest `zin-engine` binary for Windows via the [Releases](https://github.com/zin-engine/zin-engine/releases) page.
+Download the latest `zin-engine` binary for Windows via the [Releases](https://github.com/zin-engine/core/releases) page.
 
 > Linux & macOS support coming soon.
 
