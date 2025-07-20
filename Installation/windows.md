@@ -4,7 +4,7 @@ Follow these steps to get started with ZIN Engine on a Windows system.
 
 ## 📥 Step 1: Download the ZIP
 
-1. Go to the [Releases page](https://github.com/zin-engine/zin-engine/releases)
+1. Go to the [Releases page](https://github.com/zin-engine/core/releases)
 2. Download the latest **`.zip`** file for Windows
 3. Extract the ZIP to a desired location (for example: `C:/zin-engine`)
 
