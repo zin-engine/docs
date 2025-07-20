@@ -10,7 +10,7 @@ This guide will walk you through setting up your first ZIN-powered project in ju
 
 ## 🔧 Step 1: Download ZIN Engine
 
-1. Go to the [ZIN Releases](https://github.com/zin-engine/zin-engine/releases) page
+1. Go to the [ZIN Releases](https://github.com/zin-engine/core/releases) page
 2. Download the latest `zin-engine.zip` containing binary for Windows
 3. (Optional) Add the `.exe` to your system PATH for easier access via command line
 
